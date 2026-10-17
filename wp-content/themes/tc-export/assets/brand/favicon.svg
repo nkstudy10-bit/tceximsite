@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="TC EXIM"><title>TC EXIM</title><rect width="64" height="64" rx="10.24" fill="#fff"/><g transform="translate(2.88 5.12) scale(0.098) translate(-30 -15)"><g id="tc-emblem">
+  <path id="triangle-peak" fill="#10345d" d="M220 215 312 59Q329 34 344 58L439 215Q413 204 375 205L335 137Q330 127 324 138L284 205Q247 203 220 215Z"/>
+  
+  <path id="triangle-base-and-crossbar" fill="#10345d" d="M236 505H82Q55 505 68 477L188 266Q214 219 268 219H391Q435 219 460 261L498 313Q485 340 468 362L422 285Q413 269 391 269H355V452L305 468V269H254Q239 269 232 283L138 455H189Q201 487 236 505Z"/>
+  
+  <path id="triangle-right-foot" fill="#10345d" d="M385 505Q439 483 475 455H523L507 428Q526 411 541 388L593 477Q605 504 579 505Z"/>
+  
+  <path id="orbital-arrow" fill="#10345d" d="M224 354C166 483 318 503 447 398C521 338 534 281 495 236L483 259 449 195 531 188 515 208C626 276 528 433 378 488C275 526 150 513 218 365Z"/>
+  
+</g></g></svg>
